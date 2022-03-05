@@ -1,0 +1,15 @@
+1;Maria;99090-9090;Bolo de chocolate;200,00
+2;Jose;99090-9090;Bolo de laranja;3000,00
+3;João Gilberto de Macedo Peixoto;99090-9090;Bolo de morango;2400,00
+4;Daniel;99090-9090;Bolo dois amores;100,00
+7;Dirce;99090-9090;Bolo brigadeiro;500,00
+8;Ana Maria;99090-9090;Bolo marta rocha;500,00
+9;Lola;99090-9090;Bolo sensaçao;500,00
+11;Dulce Duda;99090-9090;Bolo floresta negra;500,00
+12;Maria Clara;99090-9099;Bolo Laranja;500
+13;Maria Antonieta;99090-9099;Bolo Chocolate;1000
+14;Jose;99090-9999;Bala;10
+15;Joaquim;99090-0000;Torta;1000
+16;Jose;99090-9999;T;100
+17;Pedro;99090-9090;Bolo marta rocha;900
+18;Katarina;99090-9090;bolo;100
